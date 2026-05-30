@@ -1,13 +1,12 @@
-﻿
-BEGIN:VCARD
+﻿BEGIN:VCARD
 VERSION:3.0
 FN:Roseline SEDDOH NASSARAH
 N:SEDDOH NASSARAH;Roseline;;;
-ORG:Spa Fleur d'Ebène | Nina Style
+ORG:Spa Fleur d'Ebene
 TITLE:CEO
-TEL;TYPE=CELL:+2290196444879
-EMAIL:spa.cotonou@spafleurdebene.com
+TEL;TYPE=CELL,VOICE:+2290196444879
+EMAIL;TYPE=INTERNET:spa.cotonou@spafleurdebene.com
 URL:https://spafleurdebene.com
-ADR:;;Cotonou;;;Bénin
-NOTE:Directrice Génerale des Spas Fleur d'Ebène de Cotonou, Lomé, Abidjan, Bamako, Niamey, Ouagadougou.
+ADR;TYPE=WORK:;;Cotonou;;;Benin
+NOTE:Directrice Generale des Spas Fleur d'Ebene de Cotonou, Lome, Abidjan, Bamako, Niamey et Ouagadougou.
 END:VCARD
