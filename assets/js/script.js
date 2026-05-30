@@ -10,7 +10,7 @@ TITLE:CEO
 TEL;TYPE=CELL:+2290196444879
 EMAIL:spa.cotonou@spafleurdebene.com
 URL:https://spafleurdebene.com
-ADR:;;Cotonou;;;Benin
+ADR:;;Cotonou;;;Bénin
 NOTE:Directrice Génerale des Spas Fleur d'Ebène de Cotonou, Lomé, Abidjan, Bamako, Niamey, Ouagadougou.
 END:VCARD`;
 
