@@ -16,7 +16,7 @@ NOTE:Directrice Génerale des Spas Fleur d'Ebène de Cotonou, Lomé, Abidjan, Ba
 END:VCARD
 `;
 
-const blob = new Blob([vcard], { type: 'text/vcard' });
+const blob = new Blob(["﻿" + vcard], { type: 'text/vcard;charset=utf-8' });
 
 const link = document.createElement('a');
 
