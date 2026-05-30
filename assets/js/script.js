@@ -1,7 +1,10 @@
 
 document.getElementById('downloadContact2').addEventListener('click', () => {
-    window.location.href = './assets/img/Roseline_Seddoh_Nassarah_ceo.vcf';
+    window.location.href = '/download-contact.php';
 });
+// document.getElementById('downloadContact2').addEventListener('click', () => {
+//     window.location.href = './assets/img/Roseline_Seddoh_Nassarah_ceo.vcf';
+// });
 // document.getElementById("downloadContact").addEventListener("click", function(){
 
 // const vcard = `

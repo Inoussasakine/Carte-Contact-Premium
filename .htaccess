@@ -1,0 +1,2 @@
+AddType text/x-vcard .vcf
+AddType text/vcard .vcf
