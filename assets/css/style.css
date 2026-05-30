@@ -123,6 +123,30 @@ button i{
   margin-right:10px;
 }
 
+.cinfo-item{
+  background:linear-gradient(175deg,#54361a,#d16326);
+  width:100%;
+  border:none;
+  padding:16px;
+  border-radius:18px;
+  align-items:center;
+  gap:14px;
+  text-decoration:none;
+  color:white;
+  transition:.3s;
+}
+
+.cinfo-item:hover{
+  transform:translateY(-3px);
+  background:#86380f;
+}
+
+.cinfo-item i{
+  font-size:20px;
+  color:#ffffff;
+}
+
+
 @keyframes fadeIn{
   from{
     opacity:0;
